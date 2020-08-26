@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #DCDADA;
+}
+
+h1 {
+    font-weight: bold;
+    color: #0194A2;
+}
+
+.bali-icon {
+    color: #FFA792;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+.icon {
+    background: #888;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-list {
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+}
+
+.icon-card {
+    width: 90px;
+    height: 90px;
+    font-size: 35px;
+    align-self: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.card-text {
+    color: #0194A2;
+}
+
+.btn {
+    margin: 10px 5px 10px 0; 
+}
+
+.search-box {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    width: 250px;
+    border-radius: 5px;
+    border: solid 2px #888;
+    padding: 5px 10px;
+}
+
+.input:focus {
+    border: solid 2px #888;
+}
+
+.comp-found {
+    margin: 10px 0;
+    color: #888;
+}
+
+.card-list {
+    margin-bottom: 10px;
+    box-shadow: 1px 2px #D1CDCC;
+}
+
+.card-card {
+    margin-bottom: 25px;
+    box-shadow: 1px 2px #D1CDCC;
+}
+
+.address {
+    min-height: 100px;
+}
+
+.plr10 {
+    padding: 0 5px;
+}
